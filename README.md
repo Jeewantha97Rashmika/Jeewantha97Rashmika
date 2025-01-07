@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React Js , Next JS,Node JS,Flutter**
+- 🌱 I’m currently learning **React Js, Next JS ,Node JS ,Flutter**
 
 - 💬 Ask me about **react,flutter and UI/UX**
 
